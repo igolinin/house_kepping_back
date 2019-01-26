@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend for housekeeping system",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igolinin/house_kepping_back.git"
+  },
+  "author": "Igor Akoulinine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igolinin/house_kepping_back/issues"
+  },
+  "homepage": "https://github.com/igolinin/house_kepping_back#readme"
+}
